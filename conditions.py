@@ -1,9 +1,4 @@
 '''
-Author: <Ali Kaif>
-Date: <February 22nd>
-Class: ISTA 130
-Section Leader: <Sebastian>
-
 Description:
 <A collection of functions for HW 3>
 '''
